@@ -1,0 +1,87 @@
+body{
+	background-color: #F0F8FF;
+}
+.edu-section{
+	padding-top: 30px;
+	padding-left: 20px;
+	background-color:  #008B8B;
+}
+.project-section{
+background-color:  #008B8B;
+}
+.header-section{
+	background-color: #008B8B;
+	padding-top: 70px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 70px;
+}
+
+	img {
+    display: block;
+    margin: 0 auto;
+
+
+}
+.name{
+	color: white;
+	text-align: center;
+}
+.desi{
+	color: #181818;
+	text-align: center;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+     background-color: black;
+ }
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #000000;;
+}
+.footer-section{
+	background-color: black;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 10px;
+
+
+}
+.link{
+	padding-left: 50px;
+	padding-right: 50px;
+	color: white;
+
+
+}
+h6{
+	color: white;
+}
+
+.experience-section{
+	background-color: #008B8B;
+	padding-bottom: 150px;
+}
+.contact{
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-bottom: 170px;
+
+}
